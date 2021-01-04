@@ -1,0 +1,21 @@
+.container {
+  max-width: 600px;
+}
+
+.username {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.time {
+  font-size: 0.7ems;
+  color: #999;
+}
+
+.message {
+  color: #007bff;
+}
+
+.update-msg {
+  color: #007bff;
+}
